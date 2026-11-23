@@ -3,7 +3,7 @@ export const site = {
   name: 'SCALE Business Consultancy',
   shortName: 'SCALE',
   location: 'Thiruvananthapuram, Kerala, India',
-  siteUrl: '', // Set the confirmed production URL before deployment.
+  siteUrl: 'https://abhinanth.co.in/scale/',
   logo: '', // Set to the path of the supplied official logo, e.g. assets/scale-logo.svg.
   email: '', // Publish only after verification.
   phone: '',
